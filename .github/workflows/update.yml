@@ -28,6 +28,7 @@ jobs:
 
     - name: Set Git Info & Check Git config
       run: |
+        #!/usr/bin/pwsh
         git config --global user.email "qzlin01@163.com"
         git config --global user.name "QZLin"
         git config --global --unset core.repositoryformatversion
@@ -37,7 +38,8 @@ jobs:
       env:
         KEY_BOT: ${{ secrets.BOT_SSH_KEY }}
       run: |
-        . ./.github/workflows/key.ps1
+        #!/usr/bin/pwsh
+        . .github/workflows/key.ps1
         ssh-keyscan github.com >> ~/.ssh/known_hosts
 
     - name: commit
@@ -45,4 +47,4 @@ jobs:
         #!/usr/bin/pwsh
         git commit -am 'update'
         git branch -M main
-        git push --force
+        git push --force "git@github.com:${{ GITHUB_REPOSITORY }}.git"
