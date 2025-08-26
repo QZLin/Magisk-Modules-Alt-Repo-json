@@ -21,7 +21,7 @@ try {
 
     # Define necessary paths.
     $sshDir = Join-Path $HOME ".ssh"
-    $privateKeyPath = Join-Path $sshDir "id_rsa"
+    $privateKeyPath = Join-Path $sshDir "id_ed25519"
     $publicKeyPath = "$privateKeyPath.pub"
 
     # Create .ssh directory if it doesn't exist.
@@ -31,7 +31,7 @@ try {
     }
 
     # Retrieve the private key from the environment variable.
-    $keyContent = $env:
+    $keyContent = "$env:KEY_BOT"
     if ([string]::IsNullOrWhiteSpace($keyContent)) {
         throw "Environment variable KEY_BOT is not set or is empty."
     }

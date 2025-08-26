@@ -33,14 +33,16 @@ jobs:
         git config --global --unset core.repositoryformatversion
         git config --list
 
-    - name: Setup SSH KeyPair
+    - name: Setup SSH
       env:
         KEY_BOT: ${{ secrets.BOT_SSH_KEY }}
       run: |
         . ./.github/workflows/key.ps1
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
 
     - name: commit
       run: |
         #!/usr/bin/pwsh
         git commit -am 'update'
-        git push
+        git branch -M main
+        git push --force
