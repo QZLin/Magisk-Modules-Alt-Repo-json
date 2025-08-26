@@ -33,6 +33,12 @@ jobs:
         git config --global --unset core.repositoryformatversion
         git config --list
 
+    - name: Setup SSH KeyPair
+      env:
+        KEY_BOT: ${{ secrets.BOT_SSH_KEY }}
+      run: |
+        . .github/key.ps1
+
     - name: commit
       run: |
         #!/usr/bin/pwsh
