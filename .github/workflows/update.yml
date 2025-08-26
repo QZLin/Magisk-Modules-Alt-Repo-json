@@ -17,10 +17,22 @@ jobs:
         shell: pwsh
 
     steps:
-    - uses: actions/checkout@V5
+    - uses: actions/checkout@v4
 
-    - name: Run a multi-line script
+    - name: Get and Handle content
       run: |
         #!/usr/bin/pwsh
         wget -O modules-raw.json https://github.com/Magisk-Modules-Alt-Repo/json/raw/refs/heads/main/modules.json
         $content = Get-Content modules-raw.json $content -replace "https://raw.githubusercontent.com/", "https://ghproxy.net/raw.githubusercontent.com/" -replace "https://github.com/", "https://ghproxy.net/github.com/"  | Set-Content modules.json
+
+    - name: Set Git Info & Check Git config
+      run: |
+        git config --global user.email "qzlin01@163.com"
+        git config --global user.name "QZLin"
+        git config --global --unset core.repositoryformatversion
+        git config --list
+
+    - name: commit
+      run: |
+        #!/usr/bin/pwsh
+        git commit -am 'update'
