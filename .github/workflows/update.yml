@@ -37,9 +37,10 @@ jobs:
       env:
         KEY_BOT: ${{ secrets.BOT_SSH_KEY }}
       run: |
-        . .github/key.ps1
+        . ./.github/workflows/key.ps1
 
     - name: commit
       run: |
         #!/usr/bin/pwsh
         git commit -am 'update'
+        git push
