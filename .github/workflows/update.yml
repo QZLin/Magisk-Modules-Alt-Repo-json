@@ -15,12 +15,11 @@ jobs:
     defaults:
       run:
         shell: pwsh
-
-    - name: Cancel if reach condition
-        if: ${{ github.event_name=='push' && (github.event.commits[0].message == 'update readme' || github.event.commits[0].message=='update')}}
-        uses: andymckay/cancel-action@0.5
-
     steps:
+    - name: Cancel if reach condition
+      if: ${{ github.event_name=='push' && (github.event.commits[0].message == 'update readme' || github.event.commits[0].message=='update')}}
+      uses: andymckay/cancel-action@0.5
+
     - uses: actions/checkout@v4
 
     - name: Get and Handle content
