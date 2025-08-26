@@ -47,4 +47,4 @@ jobs:
         #!/usr/bin/pwsh
         git commit -am 'update'
         git branch -M main
-        git push --force "git@github.com:${{ GITHUB_REPOSITORY }}.git"
+        git push --force "git@github.com:${{ github.GITHUB_REPOSITORY }}.git"
