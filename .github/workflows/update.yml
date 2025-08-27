@@ -11,16 +11,15 @@ on:
 
 jobs:
   main:
+    if: ${{ github.event_name!='push' || (github.event.commits[0].message != 'update readme' && github.event.commits[0].message != 'update')}}
     runs-on: ubuntu-latest
     defaults:
       run:
         shell: pwsh
     steps:
     - uses: actions/checkout@v4
-      if: ${{ github.event_name!='push' || (github.event.commits[0].message != 'update readme' && github.event.commits[0].message != 'update')}}
 
     - name: Get and Handle content
-      if: ${{ github.event_name!='push' || (github.event.commits[0].message != 'update readme' && github.event.commits[0].message != 'update')}}
       run: |
         #!/usr/bin/pwsh
         wget -O modules-raw.json https://github.com/Magisk-Modules-Alt-Repo/json/raw/refs/heads/main/modules.json
@@ -28,7 +27,6 @@ jobs:
         $content -replace "https://raw.githubusercontent.com/", "https://ghproxy.net/raw.githubusercontent.com/" -replace "https://github.com/", "https://ghproxy.net/github.com/"  | Set-Content modules.json
 
     - name: Set Git Info & Check Git config
-      if: ${{ github.event_name!='push' || (github.event.commits[0].message != 'update readme' && github.event.commits[0].message != 'update')}}
       run: |
         #!/usr/bin/pwsh
         git config --global user.email "qzlin01@163.com"
@@ -37,7 +35,6 @@ jobs:
         git config --list
 
     - name: Setup SSH
-      if: ${{ github.event_name!='push' || (github.event.commits[0].message != 'update readme' && github.event.commits[0].message != 'update')}}
       env:
         KEY_BOT: ${{ secrets.BOT_SSH_KEY }}
       run: |
@@ -46,7 +43,6 @@ jobs:
         ssh-keyscan github.com >> ~/.ssh/known_hosts
 
     - name: commit
-      if: ${{ github.event_name!='push' || (github.event.commits[0].message != 'update readme' && github.event.commits[0].message != 'update')}}
       run: |
         #!/usr/bin/pwsh
         git commit -am 'update'
