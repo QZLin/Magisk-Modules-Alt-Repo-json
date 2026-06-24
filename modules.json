@@ -14,7 +14,7 @@
             "last_update": 1741727081000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/module.prop",
-            "stars": 430,
+            "stars": 433,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/abootloop/archive/main.zip"
         },
         {
@@ -51,10 +51,10 @@
         },
         {
             "id": "audio-jitter-silencer",
-            "last_update": 1752752852000,
+            "last_update": 1782026746000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/module.prop",
-            "stars": 138,
+            "stars": 137,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/archive/main.zip"
         },
         {
@@ -62,15 +62,15 @@
             "last_update": 1768741320000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
-            "stars": 336,
+            "stars": 335,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
         },
         {
             "id": "audio-samplerate-changer",
-            "last_update": 1778311720000,
+            "last_update": 1782026939000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/main/module.prop",
-            "stars": 77,
+            "stars": 76,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/archive/main.zip"
         },
         {
@@ -78,7 +78,7 @@
             "last_update": 1599015487000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/module.prop",
-            "stars": 60,
+            "stars": 61,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/backup/archive/master.zip"
         },
         {
@@ -102,7 +102,7 @@
             "last_update": 1691528864000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/module.prop",
-            "stars": 295,
+            "stars": 293,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/main.zip"
         },
         {
@@ -150,7 +150,7 @@
             "last_update": 1766095907000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/main/module.prop",
-            "stars": 464,
+            "stars": 473,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/chroot-distro/archive/main.zip"
         },
         {
@@ -174,7 +174,7 @@
             "last_update": 1673388915000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/master/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/master/module.prop",
-            "stars": 12,
+            "stars": 13,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/archive/master.zip"
         },
         {
@@ -182,7 +182,7 @@
             "last_update": 1598574218000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/cmdpatch/master/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/cmdpatch/master/module.prop",
-            "stars": 24,
+            "stars": 25,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/cmdpatch/archive/master.zip"
         },
         {
@@ -203,10 +203,10 @@
         },
         {
             "id": "Custom-Certificate-Authorities",
-            "last_update": 1732323453000,
+            "last_update": 1781503247000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/module.prop",
-            "stars": 82,
+            "stars": 86,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/archive/master.zip"
         },
         {
@@ -318,7 +318,7 @@
             "last_update": 1663012287000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/main/module.prop",
-            "stars": 70,
+            "stars": 76,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/ezme-nodebug/archive/main.zip"
         },
         {
@@ -374,7 +374,7 @@
             "last_update": 1603068712000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gaming/master/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gaming/master/module.prop",
-            "stars": 85,
+            "stars": 84,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/gaming/archive/master.zip"
         },
         {
@@ -414,7 +414,7 @@
             "last_update": 1598228686000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans/master/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans/master/module.prop",
-            "stars": 11,
+            "stars": 12,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/Google-Sans/archive/master.zip"
         },
         {
@@ -518,7 +518,7 @@
             "last_update": 1604596410000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/master/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/master/module.prop",
-            "stars": 18,
+            "stars": 19,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/archive/master.zip"
         },
         {
@@ -558,7 +558,7 @@
             "last_update": 1779422995000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/main/module.prop",
-            "stars": 198,
+            "stars": 208,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/archive/main.zip"
         },
         {
@@ -566,7 +566,7 @@
             "last_update": 1686805349000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/module.prop",
-            "stars": 151,
+            "stars": 152,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/main.zip"
         },
         {
@@ -574,7 +574,7 @@
             "last_update": 1694360679000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/main/module.prop",
-            "stars": 47,
+            "stars": 48,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/archive/main.zip"
         },
         {
@@ -582,7 +582,7 @@
             "last_update": 1772899703000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/module.prop",
-            "stars": 131,
+            "stars": 132,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/Malwack/archive/main.zip"
         },
         {
@@ -598,7 +598,7 @@
             "last_update": 1690613826000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/module.prop",
-            "stars": 97,
+            "stars": 96,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/microG-GApps/archive/master.zip"
         },
         {
@@ -606,7 +606,7 @@
             "last_update": 1733511234000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/module.prop",
-            "stars": 87,
+            "stars": 88,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/microg_installer/archive/master.zip"
         },
         {
@@ -622,7 +622,7 @@
             "last_update": 1719773729000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/module.prop",
-            "stars": 88,
+            "stars": 89,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/mkshrc/archive/master.zip"
         },
         {
@@ -646,7 +646,7 @@
             "last_update": 1734232789000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/module.prop",
-            "stars": 68,
+            "stars": 69,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/node/archive/master.zip"
         },
         {
@@ -662,7 +662,7 @@
             "last_update": 1703269294000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/module.prop",
-            "stars": 244,
+            "stars": 246,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/archive/main.zip"
         },
         {
@@ -710,7 +710,7 @@
             "last_update": 1734799155000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
-            "stars": 323,
+            "stars": 326,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
         },
         {
@@ -726,7 +726,7 @@
             "last_update": 1695975711000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/main/module.prop",
-            "stars": 19,
+            "stars": 18,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/archive/main.zip"
         },
         {
@@ -798,7 +798,7 @@
             "last_update": 1657442190000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/selinux_mode/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/selinux_mode/main/module.prop",
-            "stars": 14,
+            "stars": 15,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/selinux_mode/archive/main.zip"
         },
         {
@@ -806,7 +806,7 @@
             "last_update": 1707749983000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/module.prop",
-            "stars": 180,
+            "stars": 179,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/sensitive_props/archive/master.zip"
         },
         {
@@ -830,7 +830,7 @@
             "last_update": 1692753832000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/smallbattery/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/smallbattery/main/module.prop",
-            "stars": 11,
+            "stars": 9,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/smallbattery/archive/main.zip"
         },
         {
@@ -846,7 +846,7 @@
             "last_update": 1767733669000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sqlite3/master/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sqlite3/master/module.prop",
-            "stars": 28,
+            "stars": 30,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/sqlite3/archive/master.zip"
         },
         {
@@ -854,7 +854,7 @@
             "last_update": 1774085409000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/main/module.prop",
-            "stars": 70,
+            "stars": 73,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/StevenBlock/archive/main.zip"
         },
         {
@@ -894,7 +894,7 @@
             "last_update": 1691442121000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/main/module.prop",
-            "stars": 94,
+            "stars": 93,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/archive/main.zip"
         },
         {
@@ -918,7 +918,7 @@
             "last_update": 1774154977000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/main/module.prop",
-            "stars": 22,
+            "stars": 24,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/ttf-twemoji/archive/main.zip"
         },
         {
@@ -950,7 +950,7 @@
             "last_update": 1775227045000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/module.prop",
-            "stars": 125,
+            "stars": 127,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/archive/master.zip"
         },
         {
@@ -966,7 +966,7 @@
             "last_update": 1762696681000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/main/module.prop",
-            "stars": 115,
+            "stars": 118,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/archive/main.zip"
         },
         {
@@ -982,7 +982,7 @@
             "last_update": 1775549252000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/main/module.prop",
-            "stars": 72,
+            "stars": 81,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/wadbd/archive/main.zip"
         },
         {
@@ -990,7 +990,7 @@
             "last_update": 1698433306000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/module.prop",
-            "stars": 58,
+            "stars": 59,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/archive/master.zip"
         },
         {
@@ -1014,7 +1014,7 @@
             "last_update": 1755109956000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/main/module.prop",
-            "stars": 119,
+            "stars": 125,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/archive/main.zip"
         },
         {
@@ -1022,7 +1022,7 @@
             "last_update": 1693126069000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/main/module.prop",
-            "stars": 51,
+            "stars": 52,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/YAKT/archive/main.zip"
         },
         {
@@ -1030,7 +1030,7 @@
             "last_update": 1776153369000,
             "notes_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector/main/README.md",
             "prop_url": "https://ghproxy.net/raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector/main/module.prop",
-            "stars": 143,
+            "stars": 151,
             "zip_url": "https://ghproxy.net/github.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector/archive/main.zip"
         },
         {
